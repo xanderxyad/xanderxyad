@@ -42,40 +42,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=xanderxyad&show_icons=true&theme=midnight-purple&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=xanderxyad&show_icons=true&theme=default&hide_border=true" 
-      width="49%" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=xanderxyad&theme=midnight-purple&hide_border=true"
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=xanderxyad&theme=default&hide_border=true"
-      width="49%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderxyad&layout=compact&theme=midnight-purple&hide_border=true"
-      media="(prefers-color-scheme: dark)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderxyad&layout=compact&theme=default&hide_border=true"
-      width="49%" />
-  </picture>
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://discord.com/users/1410341554899386408" target="_blank">
