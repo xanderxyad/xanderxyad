@@ -35,7 +35,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech & Creative Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,git,github,vscode,figma,ae,ps,ai,blender&theme=light" />
 </p>
