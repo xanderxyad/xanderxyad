@@ -26,7 +26,7 @@
 ---
 
 ### 🪶 About Me
-> “Build things that matter — beautifully, logically, and purposefully.”
+> “Build things that matter beautifully, logically, and purposefully.”
 
 - 💻 Currently exploring **Next.js**, **TypeScript**, and **Python automation**
 - 🌌 I love crafting elegant UI and meaningful code  
