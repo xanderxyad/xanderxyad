@@ -99,12 +99,5 @@
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/snake.svg" alt="purple glow snake animation" />
-  </picture>
-</p>
-
-<p align="center">
   💜 Made with logic, coffee, and a little bit of chaos.
 </p>
