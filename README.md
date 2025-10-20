@@ -37,7 +37,7 @@
 
 ### ⚙️ Tech & Creative Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,git,github,vscode,figma,ae,ps,ai,blender&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,git,github,vscode,figma,blender,ae,ps,ai&theme=light" />
 </p>
 
 ---
@@ -50,17 +50,14 @@
   <a href="https://www.instagram.com/irxyd.mp4" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=xanderxyad@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
 </p>
 
 ---
 
-### 🧠 Quote of the Day
-<p align="center">
-  <i>“Elegance is not about being noticed, it’s about being remembered.”</i>
-</p>
+### 🪶 Daily Quote
+> <!--START_QUOTE-->
+> Loading today's wisdom...
+> <!--END_QUOTE-->
 
 ---
 
