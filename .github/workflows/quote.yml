@@ -1,0 +1,37 @@
+name: ✨ Auto Update Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # jalan tiap tengah malam UTC
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate daily quote
+        run: |
+          quotes=(
+            "\"The only limit to our realization of tomorrow is our doubts of today.\" – Franklin D. Roosevelt"
+            "\"In the middle of difficulty lies opportunity.\" – Albert Einstein"
+            "\"Be yourself; everyone else is already taken.\" – Oscar Wilde"
+            "\"Every scar is proof that you survived.\" – Unknown"
+            "\"Focus on progress, not perfection.\" – Unknown"
+            "\"Quiet minds create loud impacts.\" – Unknown"
+            "\"The darkest nights produce the brightest stars.\" – Unknown"
+            "\"You don’t need to be loud to be strong.\" – Unknown"
+          )
+          random_quote=${quotes[$RANDOM % ${#quotes[@]}]}
+          echo "$random_quote" > quote.txt
+
+      - name: Commit new quote
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mv quote.txt README_QUOTE.md
+          git add README_QUOTE.md
+          git commit -m "🪶 update daily quote"
+          git push
