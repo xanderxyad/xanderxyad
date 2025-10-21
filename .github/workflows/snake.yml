@@ -23,9 +23,8 @@ jobs:
         uses: Platane/snk@v3
         id: snake
         with:
-          github_user_name: xanderxyad
-          outputs: dist/snake.svg?palette=purple&color_snake=#7A3FFF&background=transparent
-
+  github_user_name: xanderxyad
+  outputs: dist/snake.svg?palette=purple&color_snake=#7A3FFF&background=transparent dist/snake.gif
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
