@@ -5,12 +5,15 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-quote:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate daily quote
         run: |
@@ -25,13 +28,27 @@ jobs:
             "\"You don’t need to be loud to be strong.\" – Unknown"
           )
           random_quote=${quotes[$RANDOM % ${#quotes[@]}]}
-          echo "$random_quote" > quote.txt
+          echo "> $random_quote" > quote.txt
 
-      - name: Commit new quote
+      - name: Update README with quote
+        run: |
+          # Pastikan file README.md ada
+          if [ ! -f README.md ]; then
+            echo "README.md not found!"
+            exit 1
+          fi
+
+          # Ganti isi antara tag <!--START_QUOTE--> dan <!--END_QUOTE-->
+          awk -v q="$(cat quote.txt)" '
+            /<!--START_QUOTE-->/ {print; getline; print q; next}
+            /<!--END_QUOTE-->/ {print; next}
+            {print}
+          ' README.md > temp && mv temp README.md
+
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mv quote.txt README_QUOTE.md
-          git add README_QUOTE.md
+          git add README.md
           git commit -m "🪶 update daily quote"
           git push
