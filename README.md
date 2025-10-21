@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Every scar is proof that you survived." – Unknown
+> "The darkest nights produce the brightest stars." – Unknown
 > <!--END_QUOTE-->
 
 ![snake animation](https://github.com/<xanderxyadd>/<xanderxyad>/blob/output/snake.svg)
