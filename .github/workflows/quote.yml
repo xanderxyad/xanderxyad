@@ -2,7 +2,7 @@ name: ✨ Auto Update Daily Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # jalan tiap tengah malam UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
