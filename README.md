@@ -60,7 +60,7 @@
 > <!--END_QUOTE-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/snake.gif" alt="Snake animation" />
 </p>
 
 ---
