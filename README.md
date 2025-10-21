@@ -59,9 +59,7 @@
 > "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/snake.gif" alt="Snake animation" />
-</p>
+![snake animation](https://github.com/<xanderxyadd>/<xanderxyad>/blob/output/snake.svg)
 
 ---
 
