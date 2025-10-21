@@ -54,7 +54,7 @@
 
 ---
 
-### 🪶 Daily Quote
+### ✨ Daily Quote
 > <!--START_QUOTE-->
 > "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
