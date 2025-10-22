@@ -35,9 +35,9 @@
 
 ---
 
-### ⚙️ Tech & Creative Stack
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,git,github,vscode,figma,blender,ae,ps,ai&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,git,github,vscode,figma,blender,ae,ps,ai&theme=dark" />
 </p>
 
 ---
@@ -58,12 +58,6 @@
 > <!--START_QUOTE-->
 > "Be yourself; everyone else is already taken." – Oscar Wilde
 > <!--END_QUOTE-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/github-snake.svg" />
-</picture>
 
 ---
 
