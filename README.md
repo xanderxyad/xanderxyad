@@ -59,7 +59,11 @@
 > "Be yourself; everyone else is already taken." – Oscar Wilde
 > <!--END_QUOTE-->
 
-![snake animation](https://github.com/<xanderxyadd>/<xanderxyad>/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xanderxyad/xanderxyad/output/github-snake.svg" />
+</picture>
 
 ---
 
