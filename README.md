@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
