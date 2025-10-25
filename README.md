@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Focus on progress, not perfection." – Unknown
+> "Quiet minds create loud impacts." – Unknown
 > <!--END_QUOTE-->
 
 ---
