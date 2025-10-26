@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Quiet minds create loud impacts." – Unknown
+> "You don’t need to be loud to be strong." – Unknown
 > <!--END_QUOTE-->
 
 ---
