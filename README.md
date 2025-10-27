@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 > <!--END_QUOTE-->
 
 ---
