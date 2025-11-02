@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "In the middle of difficulty lies opportunity." – Albert Einstein
+> "Be yourself; everyone else is already taken." – Oscar Wilde
 > <!--END_QUOTE-->
 
 ---
