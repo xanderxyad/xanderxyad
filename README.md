@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Quiet minds create loud impacts." – Unknown
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
