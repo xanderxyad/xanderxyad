@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "Be yourself; everyone else is already taken." – Oscar Wilde
 > <!--END_QUOTE-->
 
 ---
