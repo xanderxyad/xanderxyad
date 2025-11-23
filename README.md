@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "Quiet minds create loud impacts." – Unknown
 > <!--END_QUOTE-->
 
 ---
