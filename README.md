@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "Focus on progress, not perfection." – Unknown
 > <!--END_QUOTE-->
 
 ---
