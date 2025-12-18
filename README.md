@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Every scar is proof that you survived." – Unknown
+> "In the middle of difficulty lies opportunity." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
