@@ -56,7 +56,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Focus on progress, not perfection." – Unknown
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
