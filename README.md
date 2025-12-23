@@ -10,12 +10,8 @@
     <img src="https://img.shields.io/badge/Focus-Creativity-7A3FFF?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Energy-Purple%20Glow-9B59B6?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Energy-Deep%20Purple-7A3FFF?style=for-the-badge">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Status-Always%20Learning-B57EDC?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Status-Always%20Learning-9932CC?style=for-the-badge">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Status-Always%20Learning-9B59B6?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Status-Always%20Learning-7A3FFF?style=for-the-badge">
   </picture>
 </p>
 
@@ -44,11 +40,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://discord.com/users/1410341554899386408" target="_blank">
+  <a href="https://discord.com/users/1436425965365629080" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
-  </a>
-  <a href="https://www.instagram.com/irxyd.mp4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
 
