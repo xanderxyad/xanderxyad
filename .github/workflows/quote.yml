@@ -26,6 +26,18 @@ jobs:
             "\"Quiet minds create loud impacts.\" – Unknown"
             "\"The darkest nights produce the brightest stars.\" – Unknown"
             "\"You don’t need to be loud to be strong.\" – Unknown"
+            "\"Don’t count the days, make the days count.\" – Muhammad Ali"
+            "\"Be kind, for everyone you meet is fighting a hard battle.\" – Plato"
+            "\"Dream big. Start small. Act now.\" – Robin Sharma"
+            "\"Do what you can, with what you have, where you are.\" – Theodore Roosevelt"
+            "\"The more I read, the more I acquire, the more certain I am that I know nothing.\" – Voltaire"
+            "\"Happiness is not something ready made. It comes from your own actions.\" – Dalai Lama"
+            "\"A person who never made a mistake never tried anything new.\" – Albert Einstein"
+            "\"Life isn’t about finding yourself. It’s about creating yourself.\" – George Bernard Shaw"
+            "\"It always seems impossible until it’s done.\" – Nelson Mandela"
+            "\"I don’t care that they stole my idea… I care that they don’t have any of their own.\" – Nikola Tesla"
+            "\"The present is theirs; the future, for which I really worked, is mine.\" – Nikola Tesla"
+            "\"You are never too old to set another goal or to dream a new dream.\" – C.S. Lewis"
           )
           random_quote=${quotes[$RANDOM % ${#quotes[@]}]}
           echo "> $random_quote" > quote.txt
