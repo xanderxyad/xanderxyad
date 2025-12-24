@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
 > <!--END_QUOTE-->
 
 ---
