@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Focus on progress, not perfection." – Unknown
+> "Be kind, for everyone you meet is fighting a hard battle." – Plato
 > <!--END_QUOTE-->
 
 ---
