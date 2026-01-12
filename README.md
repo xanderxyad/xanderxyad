@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Do what you can, with what you have, where you are." – Theodore Roosevelt
+> "A person who never made a mistake never tried anything new." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
