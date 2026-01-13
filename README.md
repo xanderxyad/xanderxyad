@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "A person who never made a mistake never tried anything new." – Albert Einstein
+> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 > <!--END_QUOTE-->
 
 ---
