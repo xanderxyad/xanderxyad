@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
+> "Be kind, for everyone you meet is fighting a hard battle." – Plato
 > <!--END_QUOTE-->
 
 ---
