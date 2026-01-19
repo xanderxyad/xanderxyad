@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Don’t count the days, make the days count." – Muhammad Ali
+> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
