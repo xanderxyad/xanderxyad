@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "In the middle of difficulty lies opportunity." – Albert Einstein
+> "You don’t need to be loud to be strong." – Unknown
 > <!--END_QUOTE-->
 
 ---
