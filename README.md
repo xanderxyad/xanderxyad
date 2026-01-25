@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "A person who never made a mistake never tried anything new." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
