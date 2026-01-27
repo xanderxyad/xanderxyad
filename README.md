@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Don’t count the days, make the days count." – Muhammad Ali
+> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
 > <!--END_QUOTE-->
 
 ---
