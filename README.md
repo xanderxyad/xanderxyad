@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "It always seems impossible until it’s done." – Nelson Mandela
+> "Dream big. Start small. Act now." – Robin Sharma
 > <!--END_QUOTE-->
 
 ---
