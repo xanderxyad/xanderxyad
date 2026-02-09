@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "Do what you can, with what you have, where you are." – Theodore Roosevelt
 > <!--END_QUOTE-->
 
 ---
