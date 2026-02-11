@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Don’t count the days, make the days count." – Muhammad Ali
+> "Be kind, for everyone you meet is fighting a hard battle." – Plato
 > <!--END_QUOTE-->
 
 ---
