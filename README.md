@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You are never too old to set another goal or to dream a new dream." – C.S. Lewis
+> "In the middle of difficulty lies opportunity." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
