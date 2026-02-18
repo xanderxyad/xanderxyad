@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Quiet minds create loud impacts." – Unknown
+> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
 > <!--END_QUOTE-->
 
 ---
