@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
+> "The darkest nights produce the brightest stars." – Unknown
 > <!--END_QUOTE-->
 
 ---
