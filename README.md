@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "Dream big. Start small. Act now." – Robin Sharma
 > <!--END_QUOTE-->
 
 ---
