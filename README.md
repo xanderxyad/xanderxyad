@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Focus on progress, not perfection." – Unknown
+> "It always seems impossible until it’s done." – Nelson Mandela
 > <!--END_QUOTE-->
 
 ---
