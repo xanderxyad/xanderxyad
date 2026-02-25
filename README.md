@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "It always seems impossible until it’s done." – Nelson Mandela
+> "You are never too old to set another goal or to dream a new dream." – C.S. Lewis
 > <!--END_QUOTE-->
 
 ---
