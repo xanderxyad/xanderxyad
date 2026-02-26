@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You are never too old to set another goal or to dream a new dream." – C.S. Lewis
+> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
 > <!--END_QUOTE-->
 
 ---
