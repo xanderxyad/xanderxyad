@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Quiet minds create loud impacts." – Unknown
+> "You are never too old to set another goal or to dream a new dream." – C.S. Lewis
 > <!--END_QUOTE-->
 
 ---
