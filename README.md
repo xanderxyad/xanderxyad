@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You are never too old to set another goal or to dream a new dream." – C.S. Lewis
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
