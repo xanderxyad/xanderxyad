@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+> "The more I read, the more I acquire, the more certain I am that I know nothing." – Voltaire
 > <!--END_QUOTE-->
 
 ---
