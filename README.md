@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The more I read, the more I acquire, the more certain I am that I know nothing." – Voltaire
+> "Focus on progress, not perfection." – Unknown
 > <!--END_QUOTE-->
 
 ---
