@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "I don’t care that they stole my idea… I care that they don’t have any of their own." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
