@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
 > <!--END_QUOTE-->
 
 ---
