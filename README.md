@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Do what you can, with what you have, where you are." – Theodore Roosevelt
+> "It always seems impossible until it’s done." – Nelson Mandela
 > <!--END_QUOTE-->
 
 ---
