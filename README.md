@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The more I read, the more I acquire, the more certain I am that I know nothing." – Voltaire
+> "Don’t count the days, make the days count." – Muhammad Ali
 > <!--END_QUOTE-->
 
 ---
