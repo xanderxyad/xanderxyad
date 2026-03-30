@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "It always seems impossible until it’s done." – Nelson Mandela
 > <!--END_QUOTE-->
 
 ---
