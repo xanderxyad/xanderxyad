@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Do what you can, with what you have, where you are." – Theodore Roosevelt
+> "Dream big. Start small. Act now." – Robin Sharma
 > <!--END_QUOTE-->
 
 ---
