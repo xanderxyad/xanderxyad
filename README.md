@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "It always seems impossible until it’s done." – Nelson Mandela
+> "Quiet minds create loud impacts." – Unknown
 > <!--END_QUOTE-->
 
 ---
