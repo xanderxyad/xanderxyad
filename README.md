@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be kind, for everyone you meet is fighting a hard battle." – Plato
+> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 > <!--END_QUOTE-->
 
 ---
