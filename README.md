@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+> "Quiet minds create loud impacts." – Unknown
 > <!--END_QUOTE-->
 
 ---
