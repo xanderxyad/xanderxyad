@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Don’t count the days, make the days count." – Muhammad Ali
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
