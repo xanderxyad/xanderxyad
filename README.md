@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Every scar is proof that you survived." – Unknown
+> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
