@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
+> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
 > <!--END_QUOTE-->
 
 ---
