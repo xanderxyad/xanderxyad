@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+> "You are never too old to set another goal or to dream a new dream." – C.S. Lewis
 > <!--END_QUOTE-->
 
 ---
