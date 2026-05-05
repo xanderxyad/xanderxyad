@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "Don’t count the days, make the days count." – Muhammad Ali
 > <!--END_QUOTE-->
 
 ---
