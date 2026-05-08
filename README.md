@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
+> "It always seems impossible until it’s done." – Nelson Mandela
 > <!--END_QUOTE-->
 
 ---
