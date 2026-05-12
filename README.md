@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Don’t count the days, make the days count." – Muhammad Ali
+> "Focus on progress, not perfection." – Unknown
 > <!--END_QUOTE-->
 
 ---
