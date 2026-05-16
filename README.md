@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
