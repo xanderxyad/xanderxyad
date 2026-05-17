@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
+> "Be kind, for everyone you meet is fighting a hard battle." – Plato
 > <!--END_QUOTE-->
 
 ---
