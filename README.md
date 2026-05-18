@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be kind, for everyone you meet is fighting a hard battle." – Plato
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
