@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "A person who never made a mistake never tried anything new." – Albert Einstein
+> "Quiet minds create loud impacts." – Unknown
 > <!--END_QUOTE-->
 
 ---
