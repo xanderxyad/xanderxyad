@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
+> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
 > <!--END_QUOTE-->
 
 ---
