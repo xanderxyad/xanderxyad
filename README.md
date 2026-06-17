@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "In the middle of difficulty lies opportunity." – Albert Einstein
+> "A person who never made a mistake never tried anything new." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
