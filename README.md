@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "It always seems impossible until it’s done." – Nelson Mandela
 > <!--END_QUOTE-->
 
 ---
