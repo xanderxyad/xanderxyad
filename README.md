@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
+> "The more I read, the more I acquire, the more certain I am that I know nothing." – Voltaire
 > <!--END_QUOTE-->
 
 ---
