@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Quiet minds create loud impacts." – Unknown
+> "Don’t count the days, make the days count." – Muhammad Ali
 > <!--END_QUOTE-->
 
 ---
