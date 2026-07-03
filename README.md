@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "Be kind, for everyone you meet is fighting a hard battle." – Plato
 > <!--END_QUOTE-->
 
 ---
