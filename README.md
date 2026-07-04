@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be kind, for everyone you meet is fighting a hard battle." – Plato
+> "A person who never made a mistake never tried anything new." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
