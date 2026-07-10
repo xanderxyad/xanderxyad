@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "Focus on progress, not perfection." – Unknown
 > <!--END_QUOTE-->
 
 ---
