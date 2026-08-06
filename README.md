@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Do what you can, with what you have, where you are." – Theodore Roosevelt
+> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
 > <!--END_QUOTE-->
 
 ---
