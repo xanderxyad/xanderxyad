@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
+> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
 > <!--END_QUOTE-->
 
 ---
