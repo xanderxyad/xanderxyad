@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "It always seems impossible until it’s done." – Nelson Mandela
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
