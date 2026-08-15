@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+> "Focus on progress, not perfection." – Unknown
 > <!--END_QUOTE-->
 
 ---
