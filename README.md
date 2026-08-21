@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
+> "Quiet minds create loud impacts." – Unknown
 > <!--END_QUOTE-->
 
 ---
