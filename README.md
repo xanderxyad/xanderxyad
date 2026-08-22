@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Quiet minds create loud impacts." – Unknown
+> "In the middle of difficulty lies opportunity." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
