@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "Don’t count the days, make the days count." – Muhammad Ali
 > <!--END_QUOTE-->
 
 ---
