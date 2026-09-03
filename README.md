@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Don’t count the days, make the days count." – Muhammad Ali
+> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
 > <!--END_QUOTE-->
 
 ---
