@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
+> "In the middle of difficulty lies opportunity." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
