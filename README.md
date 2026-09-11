@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "You don’t need to be loud to be strong." – Unknown
 > <!--END_QUOTE-->
 
 ---
