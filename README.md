@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Dream big. Start small. Act now." – Robin Sharma
+> "Quiet minds create loud impacts." – Unknown
 > <!--END_QUOTE-->
 
 ---
