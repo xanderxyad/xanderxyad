@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Life isn’t about finding yourself. It’s about creating yourself." – George Bernard Shaw
+> "The darkest nights produce the brightest stars." – Unknown
 > <!--END_QUOTE-->
 
 ---
