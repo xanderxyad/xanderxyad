@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Do what you can, with what you have, where you are." – Theodore Roosevelt
+> "The more I read, the more I acquire, the more certain I am that I know nothing." – Voltaire
 > <!--END_QUOTE-->
 
 ---
