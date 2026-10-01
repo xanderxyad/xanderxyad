@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "I don’t care that they stole my idea… I care that they don’t have any of their own." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
