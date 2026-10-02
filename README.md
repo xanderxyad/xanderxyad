@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "I don’t care that they stole my idea… I care that they don’t have any of their own." – Nikola Tesla
+> "The more I read, the more I acquire, the more certain I am that I know nothing." – Voltaire
 > <!--END_QUOTE-->
 
 ---
