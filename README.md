@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "A person who never made a mistake never tried anything new." – Albert Einstein
+> "You are never too old to set another goal or to dream a new dream." – C.S. Lewis
 > <!--END_QUOTE-->
 
 ---
