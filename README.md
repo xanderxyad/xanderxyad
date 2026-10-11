@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Don’t count the days, make the days count." – Muhammad Ali
+> "I don’t care that they stole my idea… I care that they don’t have any of their own." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
