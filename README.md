@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Happiness is not something ready made. It comes from your own actions." – Dalai Lama
+> "I don’t care that they stole my idea… I care that they don’t have any of their own." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
