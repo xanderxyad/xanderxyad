@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "Be yourself; everyone else is already taken." – Oscar Wilde
 > <!--END_QUOTE-->
 
 ---
