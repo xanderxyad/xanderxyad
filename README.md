@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Be yourself; everyone else is already taken." – Oscar Wilde
+> "Dream big. Start small. Act now." – Robin Sharma
 > <!--END_QUOTE-->
 
 ---
