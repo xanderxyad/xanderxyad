@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Dream big. Start small. Act now." – Robin Sharma
+> "A person who never made a mistake never tried anything new." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
