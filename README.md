@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "You don’t need to be loud to be strong." – Unknown
+> "I don’t care that they stole my idea… I care that they don’t have any of their own." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
