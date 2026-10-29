@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Every scar is proof that you survived." – Unknown
+> "Do what you can, with what you have, where you are." – Theodore Roosevelt
 > <!--END_QUOTE-->
 
 ---
