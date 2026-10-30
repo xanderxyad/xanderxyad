@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "Do what you can, with what you have, where you are." – Theodore Roosevelt
+> "The darkest nights produce the brightest stars." – Unknown
 > <!--END_QUOTE-->
 
 ---
