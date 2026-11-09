@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
