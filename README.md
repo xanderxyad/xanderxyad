@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "In the middle of difficulty lies opportunity." – Albert Einstein
+> "The present is theirs; the future, for which I really worked, is mine." – Nikola Tesla
 > <!--END_QUOTE-->
 
 ---
