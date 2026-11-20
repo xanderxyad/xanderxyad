@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The more I read, the more I acquire, the more certain I am that I know nothing." – Voltaire
+> "In the middle of difficulty lies opportunity." – Albert Einstein
 > <!--END_QUOTE-->
 
 ---
