@@ -49,7 +49,7 @@
 
 ### ✨ Daily Quote
 > <!--START_QUOTE-->
-> "The darkest nights produce the brightest stars." – Unknown
+> "Every scar is proof that you survived." – Unknown
 > <!--END_QUOTE-->
 
 ---
